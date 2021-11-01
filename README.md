@@ -1,4 +1,4 @@
-# suntusthsbatchsecond
+# My App
 
 A new Flutter project.
 
